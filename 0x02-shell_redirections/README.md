@@ -1,2 +1,1 @@
-readme.md
-
+Write a script that prints “Hello, World”
